@@ -2,8 +2,8 @@
 #EXTINF:0 type="Movies" channelId="-1" group-title="FİLM" tvg-logo="https://filmizletv.vip/wp-content/uploads/Hayaller-Diyari-200x300.jpg" size="Medium", Recep İvedik 7
 https://f1.5dk.org/storage/media/f60c62917b5fee57e20c11390d07a920-720.mp4/gomindex.m3u8
 
-#EXTINF:0 type="video" channelId="0" group-title="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Androporoz B1
-https://storage.diziyou.com/episodes/22801/720p.m3u8
+#EXTINF:0 type="video" channelId="0" group-title="FİLM" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Menü
+https://s101.rapidrame.com/hls2/01/00015/gnm0znpev4da_,l,n,.urlset/master.m3u8?t=nk41UOzRTiHShB5uGeKWTZ82I3GZJq9OdalNXidFFDU&s=1671264167&e=1199998800&f=75941&srv=s75&i=0.0&sp=0&p1=s101&p2=s101
 #EXTINF:0 type="video" channelId="1" group-title="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Androporoz B2
 https://storage.diziyou.com/episodes/22802/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Androporoz B3
