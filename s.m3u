@@ -2,15 +2,13 @@
 #EXTINF:0 type="Movies" channelId="-1" group-title="FİLM" tvg-logo="https://filmizletv.vip/wp-content/uploads/Hayaller-Diyari-200x300.jpg" size="Medium", Recep İvedik 7
 https://f1.5dk.org/storage/media/f60c62917b5fee57e20c11390d07a920-720.mp4/gomindex.m3u8
 
-#EXTINF:0 type="video" channelId="0" group-title="FİLM" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Menü
-https://s101.rapidrame.com/hls2/01/00015/gnm0znpev4da_,l,n,.urlset/master.m3u8?t=nk41UOzRTiHShB5uGeKWTZ82I3GZJq9OdalNXidFFDU&s=1671264167&e=1199998800&f=75941&srv=s75&i=0.0&sp=0&p1=s101&p2=s101
-#EXTINF:0 type="video" channelId="1" group-title="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Androporoz B2
-https://storage.diziyou.com/episodes/22802/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Androporoz B3
-https://storage.diziyou.com/episodes/22803/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Androporoz B4
-https://storage.diziyou.com/episodes/22804/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Androporoz B5
-https://storage.diziyou.com/episodes/22805/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/andropoz.jpg" size="Medium", Androporoz B6
-https://storage.diziyou.com/episodes/22806/720p.m3u8
+#PLAYLIST:Playlist1
+#EXTINF:-1 tvg-name="Channel 1" tvg-logo="http://site.domain / channel1_logo.png", Channel 1
+#EXTGRP:Group1
+http://site.domain/channel1
+#EXTINF:-1 tvg-name="Channel 2" tvg-logo="http://site.domain / channel2_logo.png", Channel 2
+#EXTGRP:Group1
+http://site.domain/channel2
+#EXTINF:-1 tvg-name="Channel 3" tvg-logo="http://site.domain / channel3_logo.png", Channel 3
+#EXTGRP:Group2
+http://site.domain/channel3 -- reports and targets
