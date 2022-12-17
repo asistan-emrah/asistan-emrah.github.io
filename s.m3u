@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 type="Movies" channelId="-1" group-title="FİLM" tvg-logo="https://filmizletv.vip/wp-content/uploads/Hayaller-Diyari-200x300.jpg" size="Medium", Recep İvedik 7
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://filmizletv.vip/wp-content/uploads/Hayaller-Diyari-200x300.jpg" size="Medium", Recep İvedik 7
 https://f1.5dk.org/storage/media/f60c62917b5fee57e20c11390d07a920-720.mp4/gomindex.m3u8
 
 #PLAYLIST:Playlist1
