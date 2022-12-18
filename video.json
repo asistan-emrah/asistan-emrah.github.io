@@ -7,7 +7,7 @@
             "icon": "movie",
             "label": "Videos",
             "extensionLabel": "Default",
-            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=http://msx.benzac.de/info/data/m3u/videos.m3u"
+            "data": "http://msx.benzac.de/services/m3u.php?type=video&url=https://f1.5dk.org/storage/media/9488b9a8ba02074373aff59dd4fe9f4a-720.mp4/gomindex.m3u8"
         }, {
             "icon": "movie",
             "label": "Videos",
