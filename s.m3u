@@ -1,14 +1,6 @@
 #EXTM3U
-#EXTINF:0 type="video" channelId="0" group-title="FİLM" tvg-logo="https://filmizletv.vip/wp-content/uploads/Hayaller-Diyari-200x300.jpg" size="Medium", Recep İvedik 7
-https://f1.5dk.org/storage/media/f60c62917b5fee57e20c11390d07a920-720.mp4/gomindex.m3u8
+#EXTINF:0 group-type="series" channelId="0" group-title="FİLM" tvg-logo="...", deneme
+https://f3.5dk.org/storage/media/89aab4b60c6fa0f2498b1539ecf84463-720.mp4/gomindex.m3u8
 
-#PLAYLIST:Playlist1
-#EXTINF:-1 tvg-name="Channel 1" tvg-logo="http://site.domain / channel1_logo.png", Channel 1
-#EXTGRP:Group1
-http://site.domain/channel1
-#EXTINF:-1 tvg-name="Channel 2" tvg-logo="http://site.domain / channel2_logo.png", Channel 2
-#EXTGRP:Group1
-http://site.domain/channel2
-#EXTINF:-1 tvg-name="Channel 3" tvg-logo="http://site.domain / channel3_logo.png", Channel 3
-#EXTGRP:Group2
-http://site.domain/channel3 -- reports and targets
+#EXTINF:0 group-type="series" channelId="0" group-title="DİZİ" tvg-logo="...", deneme2
+https://f1.5dk.org/storage/media/1cb5a456758378569fc903bf2360c6ba-720.mp4/gomindex.m3u8
