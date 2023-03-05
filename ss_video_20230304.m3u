@@ -1,163 +1,29 @@
 #EXTM3U
 #EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="FİLM",Black Adam
-https://s151.rapidrame.com/hls2/01/00016/sg4m1rqc5dd7_,l,n,.urlset/master.m3u8?t=y9Z7SaaQ5aQQMgLMciLJ37tF7NZIilrUzWFIi4RZXS8&s=1677948165&e=1199998800&f=83200&srv=s131&i=0.0&sp=0&p1=s151&p2=s151
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="FİLM",Ailecek saskiniz
-https://iptvlister.com/get-content/download-stream/e3ada0c366cdcc2f9d2169e9e1fdef91/5b21ebcda5/
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://izlekolik.com/wp-content/uploads/2022/09/f7b51e952433a44e557bdf575aacf64e-236x350.jpg" size="Medium", Çizmeli Kedi
-https://s145.rapidrame.com/hls2/01/00016/o0759a1oozao_,l,n,.urlset/master.m3u8?t=NFqA_pCfK_jS18QGWrlbdOQVizJCoc_uZpqW--wMghE&s=1677948725&e=1199998800&f=82711&srv=s74&i=0.0&sp=0&p1=s145&p2=s145
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Bıçaklar Çekildi
+https://rovideo.xyz/644/tt6443346.1080p.tr.m3u8
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.filmmodu11.com/uploads/movie/poster/11422/thumb_g81ja9FsXrye5ZvUaJSxrXpmpOy.jpg" group-title="FİLM",Çığlık
+https://rovideo.xyz/112/tt11245972.1080p.tr.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_QL75_UX100_CR0,0,100,148_.jpg" , Bıçaklar Çekildi2
 https://rovideo.xyz/115/tt11564570.1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", 10 Halka Efsanesi
-https://beststreamprovider.xyz/937/tt9376612/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY148_CR1,0,100,148_.jpg" size="Medium", Ucuz Roman
-https://rovideo.xyz/011/tt0110912.480p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KORKU" logo="https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UY148_CR1,0,100,148_.jpg" size="Medium", Ölümcül Deney
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" , Fall(Düşüş)
+https://rovideo.xyz/937/tt9376612.1080p.tr.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo=="https://m.media-amazon.com/images/M/MV5BNGI3MWYwYjItNzZhYi00ZWIzLTkyMzYtN2JmNjg3ODg1NTg4XkEyXkFqcGdeQXVyMTMwMDA5ODU3._V1_QL75_UX100_CR0,1,100,148_.jpg" , Ucuz Roman
+https://rovideo.xyz/153/tt15325794.1080p.en.m3u8
+#EXTINF:0 type="video" channelId="-1" group-title="KORKU" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UY148_CR1,0,100,148_.jpg" , Ölümcül Deney
 https://beststreamprovider.xyz/012/tt0120804/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KORKU" logo="https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg" size="Medium", Ölümcül Deney 2
+#EXTINF:0 type="video" channelId="-1" group-title="KORKU" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg" size="Medium", Ölümcül Deney 2
 https://m.youtube.com/watch?v=vaxq8ZXuvUs
-#EXTINF:0 type="video" channelId="-1" group="KOMEDİ" logo="https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY148_CR0,0,100,148_.jpg" size="Medium", Bay Evet
+#EXTINF:0 type="video" channelId="-1" group-title="KOMEDİ" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY148_CR0,0,100,148_.jpg" size="Medium", Bay Evet
 https://beststreamprovider.xyz/106/tt1068680/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Örümcek Adam: Eve Dönüş Yok
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Örümcek Adam: Eve Dönüş Yok
 https://sithmanifest.com/enCoder/filmler/deep-water/master/manifest.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Venom 2
-https://beststreamprovider.xyz/709/tt7097896/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYTAxZTU0Y2MtOWY2Mi00YWVmLWJkMTctMjg2YjVjOGI1OGZmXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_QL75_UY148_CR4,0,100,148_.jpg" size="Medium", Saklı
-https://cehennempass.pw/download-redirect/olc8ym7lm1z0/bb7b51c7541d55e84ba7d66afd408c812afff728c872f1d51bf1648ea1af9bdf281604961b677ecc9d09b961d11e611c
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYzVjYThmNDAtOTE1NC00YjQ2LTk4NWYtNTc4Yzc4OTRhYjllXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Eternals
-https://www1581.ff-04.com/token=Tg8ecy-pjQ_pmc_QzwCEKw/1651087041/78.185.0.0/123/c/ff/85183231deb8daa13dab72a26f707ffc-1080p.mp4
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYTRlYzk4NDktODE3Ni00YjFkLWFjYmUtNjg1MzdmYmFmOTJkXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_QL75_UY148_CR0,0,100,148_.jpg" size="Medium", Yaşamın Renkleri
-https://beststreamprovider.xyz/012/tt0120789/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KORKU" logo="https://www.filmmodu1.com/uploads/movie/poster/8044/thumb_15AlGTlaZa3W2zmIL4ehnCh8Xe0.jpg" size="Medium", Ölümcül Labirent
-https://beststreamprovider.xyz/588/tt5886046/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Bıçaklar Çekildi
-https://beststreamprovider.xyz/894/tt8946378/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Kırmızı Bülten
-https://beststreamprovider.xyz/799/tt7991608/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KORKU" logo="https://m.media-amazon.com/images/M/MV5BNWRmNzQ0N2QtZmJlYS00MWQ4LTlhY2ItODNmY2JkNGYyZTRlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Nefesini Tut
-https://beststreamprovider.xyz/416/tt4160708/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="KORKU" logo="https://m.media-amazon.com/images/M/MV5BNjgzMjQ4NjMtNzQ5OS00MzE4LWIxMmMtNjI0YjM1ZWZiN2U2XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Nefesini Tut 2
-https://beststreamprovider.xyz/624/tt6246322/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMTU3NzA4MDcwNV5BMl5BanBnXkFtZTcwMDAyNzc1Mg@@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Metrodan Kaçış
-https://beststreamprovider.xyz/111/tt1111422/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMjMyNzI1ODA3OF5BMl5BanBnXkFtZTgwMTI5OTczMzE@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Kara Deniz
-https://beststreamprovider.xyz/226/tt2261331/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYzBhOWU4ODAtZDYzYi00NDU1LWIzZWUtNDZmMDgxODljZTVmXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Project Power
-https://beststreamprovider.xyz/755/tt7550000/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMTcyNzIxOTIwMV5BMl5BanBnXkFtZTgwMzE0NjQwMjE@._V1_QL75_UX100_CR0,3,100,148_.jpg" size="Medium", Yargıç
-https://beststreamprovider.xyz/187/tt1872194/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BNDg2NzM2NzIwNF5BMl5BanBnXkFtZTcwODE2ODc1Mg@@._V1_QL75_UY148_CR0,0,100,148_.jpg" size="Medium", Sınav
-https://beststreamprovider.xyz/125/tt1258197/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BNDA2YjNkMjEtZjcwNy00ZTc5LWEzNDItMjE0ODlmMDAzNDFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY148_CR1,0,100,148_.jpg" size="Medium", Trafik
-https://beststreamprovider.xyz/018/tt0181865/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMTQ3NzA1MTY3MV5BMl5BanBnXkFtZTgwNzE2Mzg5MTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Kar Küreyici
-https://beststreamprovider.xyz/170/tt1706620/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMjljNzE0OTItM2Q1MS00MTUyLTg4YjgtMzUzZDRkMzkyN2NiXkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Hanna
-https://beststreamprovider.xyz/099/tt0993842/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BODYxZTZlZTgtNTM5MC00N2RhLTg3MjUtNGVkMDJjMGY3YzA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX100_CR0,1,100,148_.jpg" size="Medium", 13.Kat
-https://beststreamprovider.xyz/013/tt0139809/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMWQ3N2EzNjYtMzgwYS00YjdmLThmOTUtMzc4NDUxZjZkY2RhXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Oksijen
-https://www863.ff-02.com/token=LLHQXLVFTobfIpSMvhZdHw/1639862046/88.233.0.0/170/f/7e/7cc5abfdc40b44a30cab90414c7fa7ef-1080p.mp4
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMjE3NjM5OTMxMV5BMl5BanBnXkFtZTcwOTIzMTQyMw@@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Tetikçinin Gecesi
-https://beststreamprovider.xyz/036/tt0369339/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMTk0MDUyMzA1OF5BMl5BanBnXkFtZTgwNzA4NzE1NTM@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Patronlara Tuzak
-https://beststreamprovider.xyz/530/tt5304992/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BZTE0MWE4NzMtMzc4Ny00NWE4LTg2OTQtZmIyNDdhZjdiZmJhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UY268_CR0,0,182,268_AL_.jpg" size="Medium", Fractured
-https://www857.ff-02.com/token=I95rTzPExVMwLUrxUgRZhQ/1639862243/88.233.0.0/115/d/32/6f21f79a67bc5859dee2eb1dfae6e32d-1080p.mp4
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYWQxN2I1NjItMDVjMS00ZmJjLWIyYjItOWI2OGY5NTU1ZjI2L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTc3MjM3OTA@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Spectral
-https://beststreamprovider.xyz/210/tt2106651/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BOWQ4OTdlODQtMDc3Yy00MGVmLWExYjUtOGI0Yjg4MDQzNDNhXkEyXkFqcGdeQXVyNjIzMzkyMzk@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Hush
-https://beststreamprovider.xyz/502/tt5022702/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMTU5OTYzMzcwOF5BMl5BanBnXkFtZTgwNTkzMzk4NTM@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Tükeniş
-https://beststreamprovider.xyz/320/tt3201640/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMjA1MjYyNDkxN15BMl5BanBnXkFtZTgwMTgxODAwOTE@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Morgan
-https://beststreamprovider.xyz/452/tt4520364/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BNTVkODdiMjAtNmQ5Yy00OThhLTg4MDItYTZlYTFmN2E0M2M1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Boss Level
-https://www965.ff-02.com/token=hgAFyh4K14h9wFkLhYpFPg/1639862823/88.233.0.0/161/b/c8/3534e5496caa0bd19193ff1bdfb9fc8b-1080p.mp4
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BNGMxZjFkN2EtMDRiMS00ZTBjLWI0M2MtZWUyYjFhZGViZDJlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Ceset
-https://beststreamprovider.xyz/193/tt1937149/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BN2Y2OWU4MWMtNmIyMy00YzMyLWI0Y2ItMTcyZDc3MTdmZDU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", 12 Maymun
-https://www325.ff-01.com/token=NJj7b27BQbXpM0I5-xbz2A/1639862722/88.233.0.0/100/1/49/898558ce7995725f920b1b8fcfa1c491-1080p.mp4
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BNzM2MDc3NTA3N15BMl5BanBnXkFtZTgwNzA5OTMyNTE@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Zaman Sapması
-https://beststreamprovider.xyz/266/tt2669336/720p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMjIyMTg5MTg4OV5BMl5BanBnXkFtZTgwMzkzMjY5NzE@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Kurtuluş Günü
-https://s52.rapidrame.com/hls/zojdn2c5wuknuemgnzavugmtrgonofu7lmpjpsyb6,zdv3jwbhhfhsoxxlgma,rdv3jwbhhfflnlo4cuq,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYmEyZGQyMmItZTdjMC00YmZhLTk4YjUtNzkzZDc2NDYyMGMxXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Vivarium
-https://s23.rapidrame.com/hls/zojdm42dwuknuemgnzavuvensvziurzekapk2wzqh,rdi3q7ve3ibix4lzekq,zdi3q7ve3igcczfoewa,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMjA5NjM3NTk1M15BMl5BanBnXkFtZTgwMzg1MzU2NjE@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Sicario
-https://s46.rapidrame.com/hls/zojdndkvwuknuemgnzbfuqumyucaxz4mjlw2hzdfz,kmprrdwvc2cnky6lxta,cmprrdwvc2ccfsf3xaq,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMTEzNjM2NTYxMjReQTJeQWpwZ15BbWU4MDU2NzAxNTUz._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Sicario 2
-https://s55.rapidrame.com/hls/zojdnks4wuknuemgnzavuhmuqhs4v4waliipt3efu,kbihn4eost6azksmekq,cbihn4eost5fibi62vq,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMWYwMWQxMmUtNjU3MS00NjIwLTllYWMtNzcxYzRkMWYyYTkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Kaçak Yolcu
-https://user-content-transit-c-432-vid.moly.cloud/hls/xqx2p6yzjfokjiqbteecpiaexlyup7pclfy5t7nu7,jper7kusoo52vwbq2aq,a5er7kusoorekk4epzq,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BZDg3OGUwY2MtMWU4MC00ZTQyLWJhMGItZTQwMDdhNzJiN2FhXkEyXkFqcGdeQXVyMjYyNzI4NDQ@._V1_QL75_UX100_CR0,15,100,148_.jpg" size="Medium", Sen Hiç Ateş Böceği Gördün mü?
-https://user-content-transit-c-449-vid.moly.cloud/hls/xqx2oesajfokjiqbteccplimublifiqwxetsrazcd,ofdr5sf6nwgrxrdz4kq,hxdr5sf6nwgxklg3wra,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BZTRmZmIxMDktZjVmMS00NmFiLWExNmMtMzg0MTIyZDYwNWZjXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY268_CR4,0,182,268_AL_.jpg" size="Medium", Toprak Altında
-https://s48.rapidrame.com/hls/zojdmr3jwuknuemgnzdvuruhsqwowz2scjevipaxs,ztwlewlk4fm5uuq6pgq,rtwlewlk4fkovp53ddq,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://sinefy.com/uploads/series/cover/paper-lives.jpg" size="Medium", Kağıttan Hayatlar
-https://s1.rapidrame.com/hls/zojdm2euwuknuemgnzgvut6tyyss225cxnn7sm3vk,f5hmvbzxm7ujbp5dtfq,n5hmvbzxm7wd6nwdfqa,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYzA5Y2Q2YjktZDYwMi00NTdmLThlMjctMmY5NDgwOWRhZDUxXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Midway
-https://s1.rapidrame.com/hls/zojdkv2dwuknuemgnzavuwmnst272fw3zbu2braly,4tezucusnuh35tebenq,utezucusnulhqo5vsxa,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.hdfilmcehennemi2.pw/wp-content/uploads/2016/01/Gizli-Dunya-Room-izle-125x160.jpg" size="Medium", Gizli Dünya
-https://srv77.filmmodu.xyz/tt3170832/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BOThhNTA1YjItYzk2Ny00M2Y1LWJlYWUtZDQyZDU0YmY5Y2M5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Görevimiz Tehlike 3
-https://www729.ff-02.com/token=pFAvYOUUzfxhfOtkDmmXbA/1639862601/88.233.0.0/89/2/30/2640902434d140c39bea8498fff25302-1080p.mp4
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s1.filmmodu.org/uploads/movie/poster/3545/thumb_aeiVxTSTeGJ2ICf1iSDXkF3ivZp.jpg" size="Medium", Cloverfield Yolu No:10
-https://srv97.filmmodu.xyz/tt1179933/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMTY1MTIxMjg2Ml5BMl5BanBnXkFtZTgwMjUyNzgwMjE@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Seçilmiş
-https://s23.rapidrame.com/hls/zojdm2cgwuknuemgnzavusmnqvt7hugsf6uftmdxo,gupvo7r5kaobsj4gbjq,oupvo7r5kaarbckatnq,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s1.filmmodu.org/uploads/movie/poster/1829/thumb_pCZxl9Si7i46nduSqUSzFdHYiEO.jpg" size="Medium", K-Pax
-https://srv106.filmmodu.xyz/tt0272152/480p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BZWQwY2Q2NmUtOTI1OS00MzIzLTliNmItYmQ4NjVjMzUwNjU2XkEyXkFqcGdeQXVyMjg0MTI5NzQ@._V1_UY268_CR1,0,182,268_AL_.jpg" size="Medium", Tedavi
-https://s25.rapidrame.com/hls/zojdnciqwuknuemgnzdvug46tpw2kwcqxdygtrm7b,t6eblqff5ggdomjmvqq,36eblqff5gnh3tui5ya,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BYjY0OWVjMGQtNTIzZi00OGU5LWI4N2EtMGU0YzQ4OWM4ZmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", 13 Saat: Bingazi'nin Gizli Askerleri
-https://s51.rapidrame.com/hls/zojdnqkuwuknuemgnzbfuxuvzhs73br6a73e3yzys,m5nqfb6eviuppv6wveq,e5nqfb6evizpiwkyraq,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.kaanintavsiyesi.com/pictures/movies/281276/31/oyun-gecesi-game-night-212x320.jpg?v=9" size="Medium", Oyun Gecesi
-https://srv19.filmmodu.xyz/tt2704998/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMjMzNjU1MTg5NF5BMl5BanBnXkFtZTcwMTExMTcwOQ@@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Trans
-https://s1.rapidrame.com/hls/zojdl62pwuknuemgnzafuv4hqj2iy5gniflbdwwct,7trjrfh2t5dlpskwcea,xtrjrfh2t5n4lrvdtda,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.hdfilmcehennemi.net/content/posters/deja-vu-izle-1080p-hd-300x450.webp" size="Medium", Dejavu
-https://s54.rapidrame.com/hls/zojdniqvwuknuemgnzdvut45qtiazgp3k5duipsax,cjgsmmqggpmkl73zw2a,kjgsmmqggpgmeugsvta,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Başlangıç
-https://srv112.filmmodu.xyz/tt1375666/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX182_CR0,0,182,268_AL_.jpg" size="Medium", Yıldızlararası
-https://srv36.filmmodu.xyz/tt0816692/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.hdfilmcehennemi2.pw/wp-content/uploads/Tedavi-izle.jpg" size="Medium", Tedavi
-https://s25.rapidrame.com/hls/zojdnciqwuknuemgnzdvug46tpw2kwcqxdygtrm7b,t6eblqff5ggdomjmvqq,36eblqff5gnh3tui5ya,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s2.filmmodu.org/uploads/movie/poster/8107/thumb_2FTC96ajF2B5RcCdI9qQWYMOJ6X.jpg" size="Medium", Shazam
-https://srv78.filmmodu.xyz/tt0448115/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s2.filmmodu.org/uploads/movie/poster/8748/thumb_xNq4lakN9lV74M0xKruz9MAbNcS.jpg" size="Medium", Bıçaklar Çekildi
-https://srv115.filmmodu.xyz/tt8946378/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.hdfilmcehennemi.net/content/posters/kelebek-etkisi-izle-300x450.webp" size="Medium", Kelebek Etkisi
-https://s54.rapidrame.com/hls/zojdnqacwuknuemgnzdfugmxqzyawzv3tskepjdjk,nvyshnfb7i5hijihpbq,fvyshnfb7iqaxe5wrfq,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s2.filmmodu.org/uploads/movie/poster/885/thumb_wQF4mG0Y6znvN7meI9RuVE5wR7q.jpg" size="Medium", Zamana Karşı
-https://srv29.filmmodu.xyz/tt1637688/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s1.filmmodu.org/uploads/movie/poster/211/thumb_ltrmu7xCDXpgNI6PBRuUDv6ADEP.jpg" size="Medium", Zafere Hucum
-https://srv6.filmmodu.xyz/tt1979320/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s2.filmmodu.org/uploads/movie/poster/5036/thumb_yW2LVppyMyutKrZJNqRUVf4nPON.jpg" size="Medium", Anestezi
-https://srv35.filmmodu.xyz/tt0211933/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s2.filmmodu.org/uploads/movie/poster/3745/thumb_iBGRbLvg6kVc7wbS8wDdVHq6otm.jpg" size="Medium", Lion
-https://srv119.filmmodu.xyz/tt3741834/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://s1.filmmodu.org/uploads/movie/poster/2705/thumb_4b7QXyDJsDFXrwVHUNlrmezCZJC.jpg" size="Medium", Oyun
-https://srv7.filmmodu.xyz/tt0119174/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.kaanintavsiyesi.com/pictures/movies/944871/44/olagan-supheliler-the-usual-suspects-212x320.jpg?v=9" size="Medium", Olağan Şüpheliler
-https://srv16.filmmodu.xyz/tt0114814/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.kaanintavsiyesi.com/pictures/movies/314970/7/gece-hayvanlari-nocturnal-animals-212x320.jpg?v=9" size="Medium", Gece Hayvanları
-https://srv53.filmmodu.xyz/tt4550098/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.kaanintavsiyesi.com/pictures/movies/734665/56/aramizdaki-sozler-the-mountain-between-us-212x320.jpg?v=9" size="Medium", Aramızdaki Sözler
-https://srv92.filmmodu.xyz/tt2226597/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.kaanintavsiyesi.com/pictures/movies/263577/60/derin-sular-underwater-212x320.jpg?v=9" size="Medium", Derin Sular
-https://srv27.filmmodu.xyz/tt5774060/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" size="Medium" background="https://www.kaanintavsiyesi.com/pictures/movies/565720/38/ben-olmeden-once-before-i-fall-212x320.jpg?v=9", Ben Ölmeden Önce
-https://srv24.filmmodu.xyz/tt1691916/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.kaanintavsiyesi.com/pictures/movies/564381/66/l-arnacoeur-gonul-avcisi-212x320.jpg?v=9" size="Medium", Gönül Avcısı
-https://srv71.filmmodu.xyz/tt1465487/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.filmmodu.net/uploads/movie/poster/2436/thumb_adw6Lq9FiC9zjYEpOqfq03ituwp.jpg" size="Medium", Dövüş Klübü
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://www.filmmodu.net/uploads/movie/poster/2436/thumb_adw6Lq9FiC9zjYEpOqfq03ituwp.jpg" size="Medium", Dövüş Klübü
 https://beststreamprovider.xyz/013/tt0137523/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group="FİLM" logo="https://www.kaanintavsiyesi.com/pictures/movies/305378/36/sakkara-nin-sirlari-secret-of-the-saqqara-tomb-420x600.jpg?v=9" size="Medium", Sakkara'nın Sırları
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://www.kaanintavsiyesi.com/pictures/movies/305378/36/sakkara-nin-sirlari-secret-of-the-saqqara-tomb-420x600.jpg?v=9" size="Medium", Sakkara'nın Sırları
 https://s22.rapidrame.com/hls/zojdm6kkwuknuemgnzavutestupkayxgti7udcolq,mvannd666klaeh6vkma,evannd666kfmik45k6q,.urlset/master.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/black-mirror.jpg" size="Medium", Kara Ayna S5B1
+#EXTINF:0 type="video" channelId="-1" group-title="DİZİ" tvg-logo="https://cdn.diziyou.com/wp-content/uploads/episodes/black-mirror.jpg" size="Medium", Kara Ayna S5B1
 https://storage.diziyou.com/episodes/10820_tr/720p.m3u8
-#EXTINF:0 type="video" channelId="-1" group="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/black-mirror.jpg" size="Medium", Kara Ayna S5B2
+#EXTINF:0 type="video" channelId="-1" group-title="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/black-mirror.jpg" size="Medium", Kara Ayna S5B2
 https://storage.diziyou.com/episodes/10821_tr/720p.m3u8
 #EXTINF:0 type="video" channelId="-1" group="DİZİ" logo="https://cdn.diziyou.com/wp-content/uploads/episodes/black-mirror.jpg" size="Medium", Kara Ayna S5B3
 https://storage.diziyou.com/episodes/10822_tr/720p.m3u8
