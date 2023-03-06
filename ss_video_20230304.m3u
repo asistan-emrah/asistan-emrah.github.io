@@ -9,8 +9,8 @@ https://rovideo.xyz/115/tt11564570.1080p.tr.m3u8
 https://rovideo.xyz/937/tt9376612.1080p.tr.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo=="" , Ucuz Roman
 https://rovideo.xyz/153/tt15325794.1080p.en.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="KORKU" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UY148_CR1,0,100,148_.jpg" , Ölümcül Deney
-http://asistan-emrah.github.io/1080.m3u
+#EXTINF:0 type="video" channelId="-1" group-title="KORKU" tvg-logo="" , deneme
+http://asistan-emrah.github.io/my_list.iptvcat.com.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="KORKU" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg" size="Medium", Ölümcül Deney 2
 https://m.youtube.com/watch?v=vaxq8ZXuvUs
 #EXTINF:0 type="video" channelId="-1" group-title="KOMEDİ" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY148_CR0,0,100,148_.jpg" size="Medium", Bay Evet
