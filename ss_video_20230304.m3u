@@ -15,5 +15,19 @@ https://m.youtube.com/watch?v=vaxq8ZXuvUs
 https://beststreamprovider.xyz/106/tt1068680/1080p.tr.m3u8
 #EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX100_CR0,0,100,148_.jpg", Örümcek Adam: Eve Dönüş Yok
 https://sithmanifest.com/enCoder/filmler/deep-water/master/manifest.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://www.filmmodu.net/uploads/movie/poster/2436/thumb_adw6Lq9FiC9zjYEpOqfq03ituwp.jpg", Dövüş Klübü
-https://beststreamprovider.xyz/013/tt0137523/1080p.tr.m3u8
+#EXTM3U
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="Manifest"
+
+#EXTINF:-1 tvg-id="bm001" tvg-name="Manifest S4B2" group-title="Black Mirror",Maifest S4B2
+https://storage.diziyou.co/episodes/23802_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="bm002" tvg-name="Black Mirror: Fifteen Million Merits" group-title="Black Mirror",Black Mirror: Fifteen Million Merits
+http://example.com/bm002.m3u8
+
+#EXTINF:-1 tvg-id="bm003" tvg-name="Black Mirror: The Entire History of You" group-title="Black Mirror",Black Mirror: The Entire History of You
+http://example.com/bm003.m3u8
+
+#EXT-X-ENDLIST
+
+#EXTINF:0 type="video" channelId="-1" group-title="DİZİ" tvg-logo="https://www.filmmodu.net/uploads/movie/poster/2436/thumb_adw6Lq9FiC9zjYEpOqfq03ituwp.jpg", Manifest S4B2 
+https://storage.diziyou.co/episodes/23802_tr/720p.m3u8
