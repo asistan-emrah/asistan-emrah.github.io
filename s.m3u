@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:10
-#EXT-X-MEDIA-SEQUENCE:0
-
-
-#EXTINF:0 group-type="series" channelId="0" group-title="DİZİ" tvg-logo="...", deneme
-https://rovideo.xyz/146/tt14641788.480p.tr.m3u8
