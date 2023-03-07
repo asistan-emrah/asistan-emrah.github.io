@@ -1,26 +1,19 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=GROUP,URI="film.m3u8",GROUP-ID="film"
-
-#EXT-X-MEDIA:TYPE=GROUP-ID="film",NAME="The Matrix",URI="thematrix.m3u8"
-#EXT-X-MEDIA:TYPE=GROUP-ID="film",NAME="Inception",URI="inception.m3u8"
-
-#EXT-X-STREAM-INF:BANDWIDTH=1280000,CODECS="...",AUDIO="audio",VIDEO="film"
-thematrix.m3u8
 #EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="FİLM",Black Adam
 https://rovideo.xyz/644/tt6443346.1080p.tr.m3u8
 #EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.filmmodu11.com/uploads/movie/poster/11422/thumb_g81ja9FsXrye5ZvUaJSxrXpmpOy.jpg" group-title="FİLM",Çığlık
 https://rovideo.xyz/112/tt11245972.1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="FİLM" , Bıçaklar Çekildi2
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="FİLM",Bıçaklar Çekildi2
 https://rovideo.xyz/115/tt11564570.1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="FİLM" , Fall(Düşüş)
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="FİLM",Fall(Düşüş)
 https://rovideo.xyz/937/tt9376612.1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="FİLM" , Ucuz Roman
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="FİLM",Ucuz Roman
 https://rovideo.xyz/153/tt15325794.1080p.en.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="KORKU" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg" size="Medium", Ölümcül Deney 2
+#EXTINF:0 type="video" channelId="-1" group-title="KORKU" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc1NTUxMzk0Nl5BMl5BanBnXkFtZTcwNDQ1MDIzMw@@._V1_QL75_UX100_CR0,1,100,148_.jpg", Ölümcül Deney 2
 https://m.youtube.com/watch?v=vaxq8ZXuvUs
-#EXTINF:0 type="video" channelId="-1" group-title="KOMEDİ" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY148_CR0,0,100,148_.jpg" size="Medium", Bay Evet
+#EXTINF:0 type="video" channelId="-1" group-title="KOMEDİ" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzBmZTMzYmItNzhhMC00M2FkLWIxMGEtMjIxMjAwNmQ2ZmM4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UY148_CR0,0,100,148_.jpg", Bay Evet
 https://beststreamprovider.xyz/106/tt1068680/1080p.tr.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX100_CR0,0,100,148_.jpg" size="Medium", Örümcek Adam: Eve Dönüş Yok
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_QL75_UX100_CR0,0,100,148_.jpg", Örümcek Adam: Eve Dönüş Yok
 https://sithmanifest.com/enCoder/filmler/deep-water/master/manifest.m3u8
-#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://www.filmmodu.net/uploads/movie/poster/2436/thumb_adw6Lq9FiC9zjYEpOqfq03ituwp.jpg" size="Medium", Dövüş Klübü
+#EXTINF:0 type="video" channelId="-1" group-title="FİLM" tvg-logo="https://www.filmmodu.net/uploads/movie/poster/2436/thumb_adw6Lq9FiC9zjYEpOqfq03ituwp.jpg", Dövüş Klübü
 https://beststreamprovider.xyz/013/tt0137523/1080p.tr.m3u8
