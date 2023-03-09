@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ5NGQwOTUtNWJlZi00ZTFiLWI0ZTEtOGU3MTA2ZGU5OWZiXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="BİLİM KURGU",Dünyalı
+https://delivery360.akamai-video-content.com/hls2/01/10431/4g2l3mrwqpm6_,l,n,.urlset/master.m3u8?t=EQDrXDC_NBnid18_hgFDH_xpB8m2FOHaPxsuffVzZZE&s=1678375955&e=10800&f=52159266&srv=sto085&client=95.5.30.16
+
 #EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="SÜPER KAHRAMAN",Black Adam
 https://rovideo.xyz/644/tt6443346.1080p.tr.m3u8
 
