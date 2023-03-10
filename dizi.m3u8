@@ -118,5 +118,66 @@ https://storage.diziyou.co/episodes/10726_tr/720p.m3u8
 
 
 
+
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="SHERLOCK SEZON 1"
+
+#EXTINF:-1 tvg-id="Ss1b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 1",Sherlock S1B1
+https://storage.diziyou.co/episodes/12801_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss1b2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 1",Sherlock S1B2
+https://storage.diziyou.co/episodes/12802_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss1b3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 1",Sherlock S1B3
+https://storage.diziyou.co/episodes/12803_tr/720p.m3u8
+
+#EXT-X-ENDLIST
+
+
+
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="SHERLOCK SEZON 2"
+
+#EXTINF:-1 tvg-id="Ss2b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 2",Sherlock S2B1
+https://storage.diziyou.co/episodes/12804_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss2b2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 2",Sherlock S2B2
+https://storage.diziyou.co/episodes/12805_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss2b3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 2",Sherlock S2B3
+https://storage.diziyou.co/episodes/12806_tr/720p.m3u8
+
+#EXT-X-ENDLIST
+
+
+
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="SHERLOCK SEZON 3"
+
+#EXTINF:-1 tvg-id="Ss3b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 3",Sherlock S3B1
+https://storage.diziyou.co/episodes/12807_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss3b2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 3",Sherlock S3B2
+https://storage.diziyou.co/episodes/12808_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss1b3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 3",Sherlock S3B3
+https://storage.diziyou.co/episodes/12809_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss1b4" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 3",Sherlock S3B4
+https://storage.diziyou.co/episodes/12810_tr/720p.m3u8
+
+#EXT-X-ENDLIST
+
+
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="SHERLOCK SEZON 4 "
+
+#EXTINF:-1 tvg-id="Ss4b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 4",Sherlock S4B1
+https://storage.diziyou.co/episodes/12811_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss4b2" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 4",Sherlock S4B2
+https://storage.diziyou.co/episodes/12812_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ss4b3" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWEzNTFlMTQtMzhjOS00MzQ1LWJjNjgtY2RhMjFhYjQwYjIzXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="SHERLOCK SEZON 4",Sherlock S4B3
+https://storage.diziyou.co/episodes/12813_tr/720p.m3u8
+
+#EXT-X-ENDLIST
+
 #EXTINF:0 type="video" channelId="-1" group-title="Karışık" tvg-logo="https://www.filmmodu.net/uploads/movie/poster/2436/thumb_adw6Lq9FiC9zjYEpOqfq03ituwp.jpg", Manifest S4B2 
 https://storage.diziyou.co/episodes/23802_tr/720p.m3u8
