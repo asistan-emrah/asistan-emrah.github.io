@@ -88,6 +88,35 @@ https://storage.diziyou.co/episodes/10718_tr/720p.m3u8
 #EXT-X-ENDLIST
 
 
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="DARK SEZON 3"
+
+#EXTINF:-1 tvg-id="Ds3b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="DARK SEZON 3",Dark S3B1
+https://storage.diziyou.co/episodes/10719_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds3b2" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="DARK SEZON 3",Dark S3B2
+https://storage.diziyou.co/episodes/10720_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds3b3" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="DARK SEZON 3",Dark S3B3
+https://storage.diziyou.co/episodes/10721_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds3b4" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="DARK SEZON 3",Dark S3B4
+https://storage.diziyou.co/episodes/10722_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds3b5" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="DARK SEZON 3",Dark S3B5
+https://storage.diziyou.co/episodes/10723_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds3b6" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="DARK SEZON 3",Dark S3B6
+https://storage.diziyou.co/episodes/10724_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds3b7" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="DARK SEZON 3",Dark S3B7
+https://storage.diziyou.co/episodes/10725_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds3b8" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="DARK SEZON 3",Dark S3B8
+https://storage.diziyou.co/episodes/10726_tr/720p.m3u8
+
+#EXT-X-ENDLIST
+
+
 
 #EXTINF:0 type="video" channelId="-1" group-title="Karışık" tvg-logo="https://www.filmmodu.net/uploads/movie/poster/2436/thumb_adw6Lq9FiC9zjYEpOqfq03ituwp.jpg", Manifest S4B2 
 https://storage.diziyou.co/episodes/23802_tr/720p.m3u8
