@@ -1,36 +1,60 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="MANIFEST SEZON 4"
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="BLACK MİRROR SEZON 4"
 
-#EXTINF:-1 tvg-id="ms4b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzc1ZTAtMzYyYi00OWU4LTgzNTAtYWJmMWNhZDI3ODVjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="MANIFEST SEZON 4",Manifest S4B1
-https://storage.diziyou.co/episodes/23801_tr/720p.m3u8
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="BLACK MİRROR SEZON 4",Black Mirror S4B1
+https://storage.diziyou.co/episodes/10814_tr/720p.m3u8
 
-#EXTINF:-1 tvg-id="ms4b2" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzc1ZTAtMzYyYi00OWU4LTgzNTAtYWJmMWNhZDI3ODVjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B2" group-title="MANIFEST SEZON 4",Manifest S4B2
-https://storage.diziyou.co/episodes/23802_tr/720p.m3u8
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="BLACK MİRROR SEZON 4",Black Mirror S4B2
+https://storage.diziyou.co/episodes/10815_tr/720p.m3u8
 
-#EXTINF:-1 tvg-id="ms4b3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzc1ZTAtMzYyYi00OWU4LTgzNTAtYWJmMWNhZDI3ODVjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B3" group-title="MANIFEST SEZON 4",Manifest S4B3
-https://storage.diziyou.co/episodes/23803_tr/720p.m3u8
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="BLACK MİRROR SEZON 4",Black Mirror S4B3
+https://storage.diziyou.co/episodes/10816_tr/720p.m3u8
 
-#EXTINF:-1 tvg-id="ms4b4" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzc1ZTAtMzYyYi00OWU4LTgzNTAtYWJmMWNhZDI3ODVjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B4" group-title="MANIFEST SEZON 4",Manifest S4B4
-https://storage.diziyou.co/episodes/23804_tr/720p.m3u8
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="BLACK MİRROR SEZON 4",Black Mirror S4B4
+https://storage.diziyou.co/episodes/10817_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="BLACK MİRROR SEZON 4",Black Mirror S4B5
+https://storage.diziyou.co/episodes/10818_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="BLACK MİRROR SEZON 4",Black Mirror S4B6
+https://storage.diziyou.co/episodes/10819_tr/720p.m3u8
 
 #EXT-X-ENDLIST
 
 
 
 
-#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="MANIFEST SEZON 3"
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="DARK SEZON 1"
 
-#EXTINF:-1 tvg-id="ms3b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzc1ZTAtMzYyYi00OWU4LTgzNTAtYWJmMWNhZDI3ODVjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="MANIFEST SEZON 3",Manifest S3B1
-https://storage.diziyou.co/episodes/23801_tr/720p.m3u8
+#EXTINF:-1 tvg-id="Ds1b1" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B1
+https://storage.diziyou.co/episodes/10701_tr/720p.m3u8
 
-#EXTINF:-1 tvg-id="ms3b2" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzc1ZTAtMzYyYi00OWU4LTgzNTAtYWJmMWNhZDI3ODVjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B2" group-title="MANIFEST SEZON 3",Manifest S3B2
-https://storage.diziyou.co/episodes/23802_tr/720p.m3u8
+#EXTINF:-1 tvg-id="Ds1b2 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B2
+https://storage.diziyou.co/episodes/10702_tr/720p.m3u8
 
-#EXTINF:-1 tvg-id="ms3b3" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzc1ZTAtMzYyYi00OWU4LTgzNTAtYWJmMWNhZDI3ODVjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B3" group-title="MANIFEST SEZON 3",Manifest S3B3
-https://storage.diziyou.co/episodes/23803_tr/720p.m3u8
+#EXTINF:-1 tvg-id="Ds1b3 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B3
+https://storage.diziyou.co/episodes/10703_tr/720p.m3u8
 
-#EXTINF:-1 tvg-id="ms3b4" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjllMzc1ZTAtMzYyYi00OWU4LTgzNTAtYWJmMWNhZDI3ODVjXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B4" group-title="MANIFEST SEZON 3",Manifest S3B4
-https://storage.diziyou.co/episodes/23804_tr/720p.m3u8
+#EXTINF:-1 tvg-id="Ds1b4 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B4
+https://storage.diziyou.co/episodes/10704_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds1b5tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B5
+https://storage.diziyou.co/episodes/10705_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds1b6 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B6
+https://storage.diziyou.co/episodes/10706_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds1b7 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B7
+https://storage.diziyou.co/episodes/10707_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds1b8 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B8
+https://storage.diziyou.co/episodes/10708_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds1b9 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B9
+https://storage.diziyou.co/episodes/10709_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="Ds1b10 tvg-logo="https://m.media-amazon.com/images/M/MV5BOTk2NzUyOTctZDdlMS00MDJlLTgzNTEtNzQzYjFhNjA0YjBjXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX100_CR0,0,100,148_.jpg" tvg-name="Manifest S4B1" group-title="DARK SEZON 1",Dark S1B10
+https://storage.diziyou.co/episodes/10710_tr/720p.m3u8
 
 #EXT-X-ENDLIST
 
