@@ -1,10 +1,17 @@
 #EXTM3U
 
-#EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ5NGQwOTUtNWJlZi00ZTFiLWI0ZTEtOGU3MTA2ZGU5OWZiXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="BİLİM KURGU",Dünyalı
-https://delivery360.akamai-video-content.com/hls2/01/10431/4g2l3mrwqpm6_,l,n,.urlset/master.m3u8?t=EQDrXDC_NBnid18_hgFDH_xpB8m2FOHaPxsuffVzZZE&s=1678375955&e=10800&f=52159266&srv=sto085&client=95.5.30.16
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="Ben Efsaneyim"
 
-#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="SÜPER KAHRAMAN",Black Adam
-https://rovideo.xyz/644/tt6443346.1080p.tr.m3u8
+#EXTINF:-1 tvg-id="B1" tvg-logo="ttps://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Ben Efsaneyim",Ben Efsaneyim 4K
+https://rovideo.xyz/048/tt0480249.2160p.tr.m3u8
+
+#EXTINF:-1 tvg-id="B2" tvg-logo="ttps://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Ben Efsaneyim",Ben Efsaneyim 2K
+https://rovideo.xyz/048/tt0480249.1440p.tr.m3u8
+
+#EXTINF:-1 tvg-id="B3" tvg-logo="ttps://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Ben Efsaneyim",Ben Efsaneyim FHD
+https://rovideo.xyz/048/tt0480249.1080p.tr.m3u8
+#EXT-X-ENDLIST
+
 
 #EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTQ5OTkxNGEtZjZkMS00ZjBlLWE2OWYtM2ZkOTU3MjRlNzAxXkEyXkFqcGdeQXVyMTQzNTA5MzYz._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="KORKU",Çığlık
 https://rovideo.xyz/112/tt11245972.1080p.tr.m3u8
@@ -12,8 +19,11 @@ https://rovideo.xyz/112/tt11245972.1080p.tr.m3u8
 #EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmZlZDZkZjYtNzE5Mi00ODFhLTk2OTgtZWVmODBiZTI4NGFiXkEyXkFqcGdeQXVyMTE5MTg5NDIw._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="DEDEKTİF",Bıçaklar Çekildi2
 https://rovideo.xyz/115/tt11564570.1080p.tr.m3u8
 
-#EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNGI3MWYwYjItNzZhYi00ZWIzLTkyMzYtN2JmNjg3ODg1NTg4XkEyXkFqcGdeQXVyMTMwMDA5ODU3._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="MACERA",Fall(Düşüş)
-https://rovideo.xyz/153/tt15325794.1080p.en.m3u8
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU2ZmM2OTYtNzIxYy00NjM5LTliNGQtN2JmOWQzYTBmZWUzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="AKSİYON",Suikast Treni
+https://rovideo.xyz/125/tt12593682.1080p.tr.m3u8
+
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYmMxZWRiMTgtZjM0Ny00NDQxLWIxYWQtZDdlNDNkOTEzYTdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="MARVEL, Thor: Aşk ve Gök Gürültüsü
+https://rovideo.xyz/106/tt10648342.1080p.tr.m3u8
 
 #EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2UxM2UyNDQtYzE1OS00MjdjLWFlZTctMDczMmZkMzRjN2FjXkEyXkFqcGdeQXVyOTgxMDMxNTc@._V1_QL75_UY148_CR2,0,100,148_.jpg" group-title="MARVEL, 10 Halka Efsanesi
 https://rovideo.xyz/937/tt9376612.1080p.tr.m3u8
@@ -21,8 +31,6 @@ https://rovideo.xyz/937/tt9376612.1080p.tr.m3u8
 #EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFlNTkxYjQtNjJlOS00ZTAzLTljY2EtMTU1ZTljMWYzZWJhXkEyXkFqcGdeQXVyMTUwOTU0Mw@@._V1_QL75_UY148_CR9,0,100,148_.jpg" group-title="+18",Derin Tutkular
 https://rovideo.xyz/149/tt14995258.1080p.tr.m3u8
 
-#EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BMzQ5NGQwOTUtNWJlZi00ZTFiLWI0ZTEtOGU3MTA2ZGU5OWZiXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_QL75_UX100_CR0,1,100,148_.jpg" group-title="BİLİM KURGU",Dünyalı
-https://rovideo.xyz/075/tt0756683.1080p.tr.m3u8
-
-#EXTINF:0 type="video" channelId="-1" tvg-logo="https://www.hdfilmcehennemi.life/uploads/poster/black-adam-12.jpg" group-title="BİLİM KURGU",Zaman Sapması
+#EXTINF:0 type="video" channelId="-1" tvg-logo="https://m.media-amazon.com/images/M/MV5BNzM2MDc3NTA3N15BMl5BanBnXkFtZTgwNzA5OTMyNTE@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="BİLİM KURGU",Zaman Sapması
 https://rovideo.xyz/266/tt2669336.720p.tr.m3u8
+
