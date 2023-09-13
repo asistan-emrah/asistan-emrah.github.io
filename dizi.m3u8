@@ -3,9 +3,22 @@
 #EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="EVRENİN HİKAYESİ"
 
 #EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://cdn.diziyou.co/wp-content/uploads/posters/our-universe.jpg" group-title="EVRENİN HİKAYESİ", BÖLÜM 1
-https://storage.diziyou.co/episodes/25051_tr/play.m3u8
+https://storage.diziyou.co/episodes/25052/play.m3u8
 
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://cdn.diziyou.co/wp-content/uploads/posters/our-universe.jpg" group-title="EVRENİN HİKAYESİ", BÖLÜM 1
+https://storage.diziyou.co/episodes/25052_tr/720p.m3u8
 
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://cdn.diziyou.co/wp-content/uploads/posters/our-universe.jpg" group-title="EVRENİN HİKAYESİ", BÖLÜM 1
+https://storage.diziyou.co/episodes/25053_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://cdn.diziyou.co/wp-content/uploads/posters/our-universe.jpg" group-title="EVRENİN HİKAYESİ", BÖLÜM 1
+https://storage.diziyou.co/episodes/25054_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://cdn.diziyou.co/wp-content/uploads/posters/our-universe.jpg" group-title="EVRENİN HİKAYESİ", BÖLÜM 1
+https://storage.diziyou.co/episodes/25055_tr/720p.m3u8
+
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://cdn.diziyou.co/wp-content/uploads/posters/our-universe.jpg" group-title="EVRENİN HİKAYESİ", BÖLÜM 1
+https://storage.diziyou.co/episodes/25056_tr/720p.m3u8
 
 #EXT-X-ENDLIST
 
