@@ -1,5 +1,15 @@
 #EXTM3U
 
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="EVRENİN HİKAYESİ"
+
+#EXTINF:-1 tvg-id="BMs4b1" tvg-logo="https://cdn.diziyou.co/wp-content/uploads/posters/our-universe.jpg" group-title="EVRENİN HİKAYESİ", BÖLÜM 1
+https://storage.diziyou.co/episodes/25051_tr/play.m3u8
+
+
+
+#EXT-X-ENDLIST
+
+
 
 #EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="46 YOK OLAN"
 
