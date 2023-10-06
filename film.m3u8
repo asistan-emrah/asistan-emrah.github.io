@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="Ben Efsaneyim"
+#EXT-X-MEDIA:TYPE=GROUP-ID,GROUP-ID="category",NAME="Ben Efsaneyim" 
 
 #EXTINF:-1 tvg-id="B1" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTE1ZTBlYzgtNmMyNS00ZTQ2LWE4NjEtZjUxNDJkNTg2MzlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX100_CR0,0,100,148_.jpg" group-title="Ben Efsaneyim",Ben Efsaneyim 4K
 https://rovideo.xyz/122/tt12263384.1080p.tr.m3u8 
